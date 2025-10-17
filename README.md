@@ -1,4 +1,10 @@
 # Portfolio-of-Evidence
+
+**Name:** Sinokholo Singazi  
+**Course:** PRP370S  
+**Date:** 18 October 2025  
+**Student Number:** 222705698
+
 Welcome to my professional digital portfolio.  
 This portfolio reflects the skills I’ve developed during the Work Readiness Training at the Cape Peninsula University of Technology.  
 Through each activity, I’ve learned how to communicate professionally, prepare for interviews, build networks, and conduct myself confidently in workplace settings.
