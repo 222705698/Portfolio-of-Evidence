@@ -1,124 +1,176 @@
 # Portfolio-of-Evidence
 
+# 🌟 Work Readiness Portfolio  
 **Name:** Sinokholo Singazi  
 **Course:** PRP370S  
 **Date:** 18 October 2025  
 **Student Number:** 222705698
 
-Welcome to my professional digital portfolio.  
-This portfolio reflects the skills I’ve developed during the Work Readiness Training at the Cape Peninsula University of Technology.  
-Through each activity, I’ve learned how to communicate professionally, prepare for interviews, build networks, and conduct myself confidently in workplace settings.
+👩🏽‍💻 *Aspiring Software Developer | Cape Peninsula University of Technology*
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [1. Business Communication](#1-business-communication)
-  - [Evidence](#evidence)
-  - [Reflection (STAR Technique)](#reflection-star-technique)
-- [2. Interview Skills](#2-interview-skills)
-  - [Evidence](#evidence-1)
-  - [Reflection (STAR Technique)](#reflection-star-technique-1)
-- [3. Mock Interview](#3-mock-interview)
-  - [Evidence](#evidence-2)
-  - [Reflection (STAR Technique)](#reflection-star-technique-2)
-- [4. Professional Networking](#4-professional-networking)
-  - [Evidence](#evidence-3)
-  - [Reflection (STAR Technique)](#reflection-star-technique-3)
-- [5. Workplace Etiquette](#5-workplace-etiquette)
-  - [Evidence](#evidence-4)
-  - [Reflection (STAR Technique)](#reflection-star-technique-4)
-- [Conclusion](#conclusion)
-
----
-## 🌼 Introduction
-
-This e-portfolio showcases my journey of preparing to enter the professional world.  
-Throughout the training, I engaged in various activities designed to help me:
-- Improve my communication skills,  
-- Prepare effectively for interviews,  
-- Build my professional brand, and  
-- Understand workplace etiquette and expectations.
-
-Each section includes both **evidence** of my participation and **reflections** structured using the STAR technique.
+## 📋 Table of Contents
+- [💼 Business Communication](#-business-communication)
+- [🎤 Interview Skills](#-interview-skills)
+- [🎥 Mock Interview](#-mock-interview)
+- [🔗 Professional Networking](#-professional-networking)
+- [🏢 Workplace Etiquette](#-workplace-etiquette)
+- [✨ Conclusion](#-conclusion)
 
 ---
 
-## 1. Business Communication
+## 💼 Business Communication
+This section demonstrates my ability to communicate professionally through both written correspondence and structured documentation. Effective communication ensures clarity, collaboration, and professionalism in the workplace.
 
-### Evidence
-<img width="1908" height="930" alt="image" src="https://github.com/user-attachments/assets/3e7c1a67-aa6a-44ba-b6a0-21755f2c5eb7" />
+### 📎 My Business Communication Evidence
+- [📄 Business Communication Assessment (PDF)](#)  
+- [📧 Internship Application Email (PDF)](#)  
+- [📝 Team Meeting Minutes (PDF)](#)
 
+### 💡 What This Shows
+- Theoretical mastery of professional communication principles.  
+- Ability to apply formal language in professional contexts.  
+- Clear documentation for teamwork and collaboration.  
+- Practical application through internship application emails and meeting records.
 
-### Reflection (STAR Technique)
-**Situation:** During our training, we were tasked with completing a formal business email writing activity.  
-**Task:** I had to draft a professional email to a company representative, ensuring clarity and correct tone.  
-**Action:** I used a professional greeting, clear structure, polite language, and proper closing.  
-**Result:** I improved my confidence in writing formal emails and learned how to communicate professionally in workplace settings.
+### 🎯 Reflection (STAR Technique)
+**Situation:** I needed to improve my communication for both professional and academic settings.  
+**Task:** Master business communication principles and apply them through assessments, emails, and team documentation.  
+**Action:** I studied communication theory, wrote a professional internship email, and documented meeting minutes clearly.  
+**Result:** I improved my tone, structure, and clarity — receiving a positive response to my email and helping my team collaborate more efficiently.
 
----
+### 🪄 Key Lessons Learned
+- Professional tone and structure build trust.  
+- Clear documentation keeps teams aligned.  
+- Adapting communication style to the audience is essential.
 
-## 2. Interview Skills
-
-### Evidence
-<img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/0ae8f729-6835-42d5-8e5c-14db78e0f6d3" />
-
-
-### Reflection (STAR Technique)
-**Situation:** We participated in an interview preparation session focusing on typical questions and professional presentation.  
-**Task:** Prepare and practice structured answers to common interview questions.  
-**Action:** I practiced using the STAR method to answer behavioural questions and worked on my tone and posture.  
-**Result:** I became more comfortable and confident in interviews, learning how to highlight my strengths clearly.
-
----
-
-## 3. Mock Interview
-
-### Evidence
-https://github.com/222705698/Portfolio-of-Evidence/blob/main/Mock%20Interview%20Video%20(1)%20(1).mp4
-
-### Reflection (STAR Technique)
-**Situation:** A mock interview was arranged to simulate a real hiring experience.  
-**Task:** Demonstrate professional communication, confidence, and clarity when responding to questions.  
-**Action:** I dressed professionally, maintained eye contact, and used structured answers.  
-**Result:** I received positive feedback on my communication skills and learned areas I can still improve, like slowing down my speech.
+[⬅️ Back to Home](#-work-readiness-portfolio)
 
 ---
 
-## 4. Professional Networking
+## 🎤 Interview Skills
+This section highlights my ability to prepare for and perform in interviews with confidence and structure.
 
-### Evidence
-<img width="1911" height="924" alt="image" src="https://github.com/user-attachments/assets/cc1ca32c-a1c0-40e7-bc9e-bacaa3b634e2" />
+### 📎 My Interview Skills Evidence
+- [📝 Interview Skills Assessment (PDF)](#)  
+- [🎥 Mock Interview Video](#)
 
+### 💡 What This Shows
+- Theoretical knowledge of interview structure and techniques.  
+- Application of STAR and CAR frameworks in answers.  
+- Improved confidence, tone, and clarity in interviews.  
+- Realistic practice with interpersonal, behavioral, and technical questions.
 
-### Reflection (STAR Technique)
-**Situation:** I was encouraged to build a professional presence online through platforms like LinkedIn.  
-**Task:** Create or update my LinkedIn profile and connect with professionals in my field.  
-**Action:** I updated my skills, added my academic achievements, and connected with ICT professionals and companies.  
-**Result:** My professional network grew, and I became more aware of industry trends and job opportunities.
+### 🎯 Reflection (STAR Technique)
+**Situation:** I wanted to prepare effectively for future internship interviews.  
+**Task:** Strengthen both my knowledge of interview principles and my real-life communication skills.  
+**Action:** I studied interview frameworks, completed assessments, and recorded a mock interview answering six common questions.  
+**Result:** I became more confident, improved my verbal and non-verbal communication, and learned to manage pressure better.
+
+### 🪄 Key Lessons Learned
+- Body language and tone are as important as answers.  
+- STAR and CAR structures create clarity in interviews.  
+- Practice transforms nervousness into confidence.
+
+[⬅️ Back to Home](#-work-readiness-portfolio)
 
 ---
 
-## 5. Workplace Etiquette
+## 🎥 Mock Interview
+This section focuses on applying my interview preparation in a simulated real-world scenario.
 
-### Evidence
-<img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/3d6b224f-5f1c-495b-afe1-fb77b632110f" />
+### 📎 My Mock Interview Evidence
+- [🎬 Mock Interview Recording](#)  
+- [📝 Feedback Form (PDF)](#)  
+- [📄 Self-Assessment Notes (PDF)](#)
 
+### 💡 What This Shows
+- Professional presentation under interview pressure.  
+- Strong posture, eye contact, and tone.  
+- Ability to answer technical and behavioral questions clearly.
 
-### Reflection (STAR Technique)
-**Situation:** A workshop was conducted to teach students how to behave and communicate in a professional work environment.  
-**Task:** Learn and apply proper workplace etiquette, including dress code, punctuality, and respectful communication.  
-**Action:** I took notes during the session, participated in discussions, and reflected on real workplace scenarios.  
-**Result:** I gained confidence in how to present myself professionally, communicate respectfully, and build positive workplace relationships.
+### 🎯 Reflection (STAR Technique)
+**Situation:** I participated in a mock interview session.  
+**Task:** Demonstrate professional communication and structured responses.  
+**Action:** I maintained professionalism, practiced multiple takes, and refined my answers.  
+**Result:** I performed more confidently and learned how to present myself effectively in real interviews.
+
+### 🪄 Key Lessons Learned
+- Preparation improves confidence.  
+- Feedback helps refine weak areas.  
+- Mock interviews make real interviews feel easier.
+
+[⬅️ Back to Home](#-work-readiness-portfolio)
 
 ---
 
-## 🌸 Conclusion
+## 🔗 Professional Networking
+This section showcases my proactive approach to **building professional relationships** and learning from the tech community.
 
-This digital portfolio captures my growth and readiness to enter the professional world.  
-Through business communication, interviews, networking, and etiquette training, I’ve gained the confidence and skills needed to start my career in ICT.  
-I’m proud of the journey so far and excited for what comes next.
+### 📎 My Networking Evidence
+- [📄 Networking Assessment (PDF)](#)  
+- [🌐 Tech Event Participation (Images)](#)  
+- [💼 LinkedIn Profile Screenshot](#) | [Visit LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+### 💡 What This Shows
+- Theoretical understanding of networking principles.  
+- Practical application at tech events (MS Developer, AWS, DBSA Youth).  
+- Active LinkedIn presence and professional networking.
+
+### 🎯 Reflection (STAR Technique)
+**Situation:** I wanted to grow my professional network beyond the classroom.  
+**Task:** Learn effective networking strategies and apply them through events and online platforms.  
+**Action:** I completed networking assessments, attended events, and built an online presence.  
+**Result:** I gained industry connections, learned from experts, and started receiving internship opportunities.
+
+### 🪄 Key Lessons Learned
+- Networking builds visibility and opportunity.  
+- Preparation makes conversations meaningful.  
+- Authenticity strengthens connections.
+
+[⬅️ Back to Home](#-work-readiness-portfolio)
+
+---
+
+## 🏢 Workplace Etiquette
+This section demonstrates my understanding of professional behavior and communication standards in the workplace.
+
+### 📎 My Workplace Etiquette Evidence
+- [📄 Workplace Etiquette Assessment (PDF)](#)  
+- [🎥 IOT Project Presentation Video](#)  
+- [📝 Team Documentation](#)
+
+### 💡 What This Shows
+- Mastery of professional etiquette principles.  
+- Confident presentation in formal settings.  
+- Ability to collaborate respectfully in teams.
+
+### 🎯 Reflection (STAR Technique)
+**Situation:** I needed to understand how to behave professionally in real work settings.  
+**Task:** Learn theoretical etiquette and apply it in presentations and teamwork.  
+**Action:** I completed assessments, applied etiquette in my IOT presentation, and worked collaboratively.  
+**Result:** I feel more confident about how to present myself professionally and contribute positively to workplace culture.
+
+### 🪄 Key Lessons Learned
+- Respect and professionalism build strong teams.  
+- Etiquette enhances communication and trust.  
+- Behavior matters as much as technical skill.
+
+[⬅️ Back to Home](#-work-readiness-portfolio)
+
+---
+
+## ✨ Conclusion
+This **Work Readiness Portfolio** reflects my growth as a young professional — from learning to write formal emails and attending networking events to presenting in professional environments.  
+
+I’ve developed:
+- Clear and adaptable communication skills,  
+- Strong interview confidence,  
+- Real-world networking strategies, and  
+- A solid understanding of workplace etiquette.
+
+I’m ready to bring this **professional mindset and energy** into the tech industry. 
 
 ✨ *Sinokholo Singazi*  
 📍 Cape Peninsula University of Technology  
