@@ -91,4 +91,4 @@ My networking efforts yielded significant benefits:
 
 **Key Takeaway:** Professional networking is not just about collecting contacts—it's about building meaningful relationships that support continuous learning, career growth, and community contribution in the technology sector.
 
-[⬅️ Back to Home](#work-readiness-portfolio)
+[ Back to Portfolio](README.md)
