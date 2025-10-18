@@ -77,4 +77,4 @@ My workplace etiquette development led to:
 
 **Key Takeaway:** Strong workplace etiquette complements technical skills by enabling effective collaboration, professional communication, and positive team dynamics—essential elements for success in software engineering roles and long-term career growth.
 
-[⬅️ Back to Home](#work-readiness-portfolio)
+[ Back to Portfolio](README.md)
