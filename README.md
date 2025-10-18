@@ -9,17 +9,17 @@
 
 ---
 
-## 📋 Table of Contents
-- [💼 Business Communication](#-business-communication)
-- [🎤 Interview Skills](#-interview-skills)
-- [🎥 Mock Interview](#-mock-interview)
-- [🔗 Professional Networking](#-professional-networking)
-- [🏢 Workplace Etiquette](#-workplace-etiquette)
-- [👩🏽‍🎓 About Me](#-about-me)
-- [🎯 Portfolio Overview](#-portfolio-overview)
-- [💡 Skills Developed](#-skills-developed)
-- [🌈 Personal Growth Journey](#-personal-growth-journey)
-- [🚀 Contact](#-contact)
+## Table of Contents
+- Business Communication
+- Interview Skills  
+- Mock Interview
+- Professional Networking
+- Workplace Etiquette
+- About Me
+- Portfolio Overview
+- Skills Developed
+- Personal Growth Journey
+- Contact
 
 ---
 
@@ -128,7 +128,7 @@ This programme transformed my professional confidence. I learned how to:
 ---
 
 ## 🚀 Contact
-✨ *Sinokholo Singazi*  
+🎓 *Sinokholo Singazi*  
 📍 Cape Peninsula University of Technology  
 📧 singanzisinokholo04@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinokholo-singazi-815b15246/) | [GitHub](https://github.com/222705698)
