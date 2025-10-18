@@ -32,7 +32,7 @@
 - Business communication assessment  
 - Formal project reports
 
-👉 [📎 Click to view Business Communication Evidence](#) *(https://github.com/222705698/Portfolio-of-Evidence/blob/main/Business%20Communication)*
+👉 [📎 Click to view Business Communication Evidence](Business-Communication.md)
 
 ---
 
@@ -45,7 +45,7 @@
 - Interview skills assessment  
 - STAR technique practice
 
-👉 [📎 Click to view Interview Skills Evidence](#)
+👉 [📎 Click to view Interview Skills Evidence](Interview-skills.md)
 
 ---
 
@@ -58,7 +58,7 @@
 - Self-assessment and improvement plan  
 - Response refinement practice
 
-👉 [📎 Click to view Mock Interview Evidence](#)
+👉 [📎 Click to view Mock Interview Evidence](mock-interview.md)
 
 ---
 
@@ -71,7 +71,7 @@
 - Professional connections established  
 - Networking assessment results
 
-👉 [📎 Click to view Professional Networking Evidence](#)
+👉 [📎 Click to view Professional Networking Evidence](professional-networking.md)
 
 ---
 
@@ -84,12 +84,12 @@
 - Team collaboration documentation  
 - Professional communication examples
 
-👉 [📎 Click to view Workplace Etiquette Evidence](#)
+👉 [📎 Click to view Workplace Etiquette Evidence](work-etiquette.md)
 
 ---
 
 ## 👩🏽‍🎓 About Me
-Hi! I’m **Sinokholo Singazi**, a passionate software development student at Cape Peninsula University of Technology.  
+Hi! I'm **Sinokholo Singazi**, a passionate software development student at Cape Peninsula University of Technology.  
 
 ✨ *My Journey*: My love for technology started with curiosity about how systems work behind the scenes. Over time, this curiosity grew into creating practical solutions such as web apps and team projects.  
 
@@ -132,4 +132,3 @@ This programme transformed my professional confidence. I learned how to:
 📍 Cape Peninsula University of Technology  
 📧 singanzisinokholo04@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinokholo-singazi-815b15246/) | [GitHub](https://github.com/222705698)
-
