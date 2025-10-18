@@ -6,7 +6,7 @@ This section showcases my practical interview performance through a recorded moc
 🎬 **Recorded Mock Interview Session**  
 **Context:** Practical simulation of a software engineering interview with real-time questions and responses.
 
-[Watch My Mock Interview Video](https://your-video-link-here.com)
+[[Watch My Mock Interview Video](https://your-video-link-here.com)](https://github.com/222705698/Portfolio-of-Evidence/blob/main/Mock%20Interview%20Video%20(1)%20(1).mp4)
 
 💡 **What This Shows:**  
 This live recording demonstrates my ability to:
