@@ -72,4 +72,4 @@ The mock interview provided valuable insights and outcomes:
 
 **Key Takeaway:** Real interview practice through mock sessions builds confidence, identifies growth areas, and transforms theoretical knowledge into practical communication skills essential for software engineering roles.
 
-[ Back to Home](#work-readiness-portfolio)
+[ Back to Portfolio](README.md)
