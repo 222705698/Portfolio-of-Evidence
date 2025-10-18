@@ -19,7 +19,7 @@ This assessment demonstrates my theoretical knowledge of:
 - Networking ethics and best practices
 
 🎪 **AWS Community Day Volunteering**  
-**Context:** Volunteered at AWS Community Day 2024, a major cloud computing event bringing together professionals, developers, and industry experts.
+**Context:** Volunteered at AWS Community Day 2025, a major cloud computing event bringing together professionals, developers, and industry experts.
 
 <img width="674" height="906" alt="image" src="https://github.com/user-attachments/assets/6b13c5a8-c1d1-4535-9573-400af858b926" />
 
