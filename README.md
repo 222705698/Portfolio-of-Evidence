@@ -32,7 +32,7 @@
 - Business communication assessment  
 - Formal project reports
 
-👉 [📎 Click to view Business Communication Evidence](Business-Communication.md)
+ [ Click to view Business Communication Evidence](Business-Communication.md)
 
 ---
 
@@ -45,7 +45,7 @@
 - Interview skills assessment  
 - STAR technique practice
 
-👉 [📎 Click to view Interview Skills Evidence](Interview-skills.md)
+ [ Click to view Interview Skills Evidence](Interview-skills.md)
 
 ---
 
@@ -58,7 +58,7 @@
 - Self-assessment and improvement plan  
 - Response refinement practice
 
-👉 [📎 Click to view Mock Interview Evidence](mock-interview.md)
+ [ Click to view Mock Interview Evidence](mock-interview.md)
 
 ---
 
@@ -71,7 +71,7 @@
 - Professional connections established  
 - Networking assessment results
 
-👉 [📎 Click to view Professional Networking Evidence](professional-networking.md)
+ [ Click to view Professional Networking Evidence](professional-networking.md)
 
 ---
 
@@ -84,16 +84,16 @@
 - Team collaboration documentation  
 - Professional communication examples
 
-👉 [📎 Click to view Workplace Etiquette Evidence](work-etiquette.md)
+ [ Click to view Workplace Etiquette Evidence](work-etiquette.md)
 
 ---
 
 ## 👩🏽‍🎓 About Me
 Hi! I'm **Sinokholo Singazi**, a passionate software development student at Cape Peninsula University of Technology.  
 
-✨ *My Journey*: My love for technology started with curiosity about how systems work behind the scenes. Over time, this curiosity grew into creating practical solutions such as web apps and team projects.  
+ *My Journey*: My love for technology started with curiosity about how systems work behind the scenes. Over time, this curiosity grew into creating practical solutions such as web apps and team projects.  
 
-🚀 *My Mission*: I aim to build impactful tech solutions while inspiring other young women to pursue careers in technology.
+ *My Mission*: I aim to build impactful tech solutions while inspiring other young women to pursue careers in technology.
 
 ---
 
@@ -101,9 +101,9 @@ Hi! I'm **Sinokholo Singazi**, a passionate software development student at Cape
 This portfolio documents my **Work Readiness Training** using evidence-based learning and STAR technique reflections across five key competency areas.  
 
 Each section contains:
-- ✨ Evidence of my skills  
-- 🧠 Reflections on my growth  
-- 📎 Direct links to supporting artefacts
+-  Evidence of my skills  
+-  Reflections on my growth  
+-  Direct links to supporting artefacts
 
 ---
 
