@@ -67,4 +67,4 @@ Through this process, I:
 
 **Key Takeaway:** Interview success comes from preparation, research, and practice, not luck.
 
-[⬅️ Back to Home](#work-readiness-portfolio)
+[ Back to Portfolio](README.md)
