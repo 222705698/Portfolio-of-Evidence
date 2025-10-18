@@ -53,4 +53,4 @@ Through my experiences in professional communication, I learned that **theory tr
 
 **Key Takeaway:** I've proven I can adapt my communication style for different professional contexts while maintaining clarity and professionalism — a crucial skill for bridging the gap between technical teams and business stakeholders in software engineering roles.
 
-[⬅️ Back to Portfolio](README.md)
+[ Back to Portfolio](README.md)
